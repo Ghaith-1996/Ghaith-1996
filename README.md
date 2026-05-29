@@ -85,9 +85,8 @@ The app works as a smart rest timer that helps users avoid distractions and retu
 ## 📊 GitHub Stats
 
 <p>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghaith-1996&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaith-1996&layout=compact&hide_border=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=Ghaith-1996&show_icons=true&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaith-1996&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
