@@ -63,23 +63,100 @@
 <h2>Technical skills</h2>
 
 <h3>Languages</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=py,go,cs,ts,js,java,kotlin&amp;theme=dark&amp;perline=8" alt="Python, Go, C#, TypeScript, JavaScript, Java, Kotlin" width="412" />
 </p>
 
 <h3>Frontend &amp; Mobile</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs&amp;theme=dark&amp;perline=8" alt="React, Next.js" width="112" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-242938?style=flat-square" alt="React Native" height="24" />
+</p>
+
 <h3>Backend &amp; Data</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,postgres,supabase&amp;theme=dark&amp;perline=8" alt=".NET, PostgreSQL, Supabase" width="172" />
 </p>
 
-<h3>Tools &amp; Cloud</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,linux,windows,git,azure,vercel&amp;theme=dark&amp;perline=8" alt="GitHub Actions, Docker, Kubernetes, Linux, Windows, Git, Azure, Vercel" width="472" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-242938?style=flat-square" alt="ASP.NET Core" height="24" />
+  <img src="https://img.shields.io/badge/Python%20Data%20Pipelines-242938?style=flat-square" alt="Python Data Pipelines" height="24" />
+  <img src="https://img.shields.io/badge/Data%20Loading%20%26%20Validation-242938?style=flat-square" alt="Data Loading &amp; Validation" height="24" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Deduplication-242938?style=flat-square" alt="Deduplication" height="24" />
+  <img src="https://img.shields.io/badge/SQL%20Server-242938?style=flat-square" alt="SQL Server" height="24" />
+  <img src="https://img.shields.io/badge/Azure%20SQL-242938?style=flat-square" alt="Azure SQL" height="24" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-242938?style=flat-square" alt="SQL" height="24" />
+</p>
+
+<h3>Automation &amp; Infrastructure</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes&amp;theme=dark&amp;perline=8" alt="GitHub Actions, Docker, Kubernetes" width="172" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-242938?style=flat-square" alt="CI/CD" height="24" />
+  <img src="https://img.shields.io/badge/YAML%20Workflows-242938?style=flat-square" alt="YAML Workflows" height="24" />
+  <img src="https://img.shields.io/badge/Kubernetes%20Jobs-242938?style=flat-square" alt="Kubernetes Jobs" height="24" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/client--go-242938?style=flat-square" alt="client-go" height="24" />
+  <img src="https://img.shields.io/badge/Batch%20Job%20Orchestration-242938?style=flat-square" alt="Batch Job Orchestration" height="24" />
+</p>
+
+<h3>Systems &amp; Cloud</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,azure,vercel,git&amp;theme=dark&amp;perline=8" alt="Linux, Windows, Azure, Vercel, Git" width="292" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20App%20Service-242938?style=flat-square" alt="Azure App Service" height="24" />
+  <img src="https://img.shields.io/badge/Azure%20SQL-242938?style=flat-square" alt="Azure SQL" height="24" />
+  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-242938?style=flat-square" alt="Azure Blob Storage" height="24" />
+</p>
+
+<h3>Testing</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest&amp;theme=dark&amp;perline=8" alt="Vitest" width="52" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/pytest-242938?style=flat-square" alt="pytest" height="24" />
+  <img src="https://img.shields.io/badge/xUnit-242938?style=flat-square" alt="xUnit" height="24" />
+  <img src="https://img.shields.io/badge/Integration%20Testing-242938?style=flat-square" alt="Integration Testing" height="24" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/End--to--End%20Testing-242938?style=flat-square" alt="End-to-End Testing" height="24" />
+  <img src="https://img.shields.io/badge/Contract%20Testing-242938?style=flat-square" alt="Contract Testing" height="24" />
+</p>
+
+<h3>Team Practices</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Agile%20%28Scrum%29-242938?style=flat-square" alt="Agile (Scrum)" height="24" />
+  <img src="https://img.shields.io/badge/Jira-242938?style=flat-square" alt="Jira" height="24" />
+  <img src="https://img.shields.io/badge/Code%20Reviews-242938?style=flat-square" alt="Code Reviews" height="24" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Incident%20Investigation-242938?style=flat-square" alt="Incident Investigation" height="24" />
+  <img src="https://img.shields.io/badge/Root--Cause%20Analysis-242938?style=flat-square" alt="Root-Cause Analysis" height="24" />
 </p>
 
 <h2>Connect</h2>
