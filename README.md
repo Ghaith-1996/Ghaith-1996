@@ -39,13 +39,26 @@ Stack: React Native, TypeScript, Supabase, PostgreSQL.
 Other work
 Earnit! is an Android fitness-productivity app built with Java/Kotlin, featuring a workout rest timer and a local-first experience without an account.
 Technical skills
-- Languages: Python, Go, C#, TypeScript, JavaScript, Java.
-- Data: Data loading and validation, deduplication, PostgreSQL, SQL Server, Azure SQL.
-- Web & mobile: React, Next.js, React Native, ASP.NET Core.
-- Automation & infrastructure: GitHub Actions, Docker, Kubernetes Jobs, Linux, Windows, Git.
-- Cloud & deployment: Azure App Service, Azure SQL, Azure Blob Storage, Vercel, Supabase.
-- Testing: pytest, xUnit, Vitest, integration, end-to-end, and contract testing.
-- Team practices: Scrum, Jira, code reviews, incident investigation, and root-cause analysis.
+Languages
+<img src="https://skillicons.dev/icons?i=py,go,cs,ts,js,java,kotlin&theme=dark&perline=7" alt="Python, Go, C#, TypeScript, JavaScript, Java, Kotlin" />
+
+Python · Go · C# · TypeScript · JavaScript · Java · Kotlin
+Web & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,dotnet&theme=dark&perline=7" alt="React, Next.js, .NET" />
+
+React · Next.js · React Native · ASP.NET Core
+Data
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=7" alt="PostgreSQL" />
+
+PostgreSQL · SQL Server · Azure SQL · Data loading and validation · Deduplication
+Tools & Cloud
+<img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,linux,windows,git,azure,vercel,supabase&theme=dark&perline=7" alt="GitHub Actions, Docker, Kubernetes, Linux, Windows, Git, Azure, Vercel, Supabase" />
+
+GitHub Actions · Docker · Kubernetes Jobs · Linux · Windows · Git · Azure App Service · Azure SQL · Azure Blob Storage · Vercel · Supabase
+
+Testing: pytest, xUnit, Vitest, integration, end-to-end, and contract testing.
+
+Team practices: Scrum, Jira, code reviews, incident investigation, and root-cause analysis.
 Connect
 - Portfolio: ghaithalali.me
 - LinkedIn: Ghaith Alali
